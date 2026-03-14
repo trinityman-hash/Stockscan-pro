@@ -1,1 +1,0 @@
-# Stockscan-pro
