@@ -1,0 +1,9 @@
+{
+  "name": "stockscan-pro-api",
+  "version": "1.0.0",
+  "description": "StockScan Pro — Vercel serverless API proxy for Finnhub stock data",
+  "private": true,
+  "engines": {
+    "node": "18.x"
+  }
+}
